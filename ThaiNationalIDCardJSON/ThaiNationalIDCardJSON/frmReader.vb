@@ -1,10 +1,12 @@
-﻿'http://www.g2gsoft.com/webboard/forum.php?Mod=viewthread&tid=311
-'http://www.g2gsoft.com/webboard/forum.php?Mod=viewthread&tid=317
-'https://github.com/chakphanu/ThaiNationalIDCard
+﻿'https://github.com/chakphanu/ThaiNationalIDCard
 'https://github.com/dotnetthailand/ThaiNationalIDCard
-'Original repository by Mr. Chakphanu Komasathit https://github.com/chakphanu/ThaiNationalIDCard
-'APDU Command from Mr. Manoi http://hosxp.net/index.php?option=com_smf&topic=22496
-'3B 78 Type of Thai smartcard. More details https://github.com/kolry/ThaiNationalIDCard/wiki/_pages
+'http://hosxp.net/index.php?option=com_smf&topic=22496
+'http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=311
+'http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=317
+'https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.webservicehost?redirectedfrom=MSDN&view=netframework-4.8.1
+'https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.weboperationcontext.outgoingrequest?view=netframework-4.8
+'https://www.codeproject.com/Questions/1067471/how-to-resolve-cross-domain-issues-using-wcf-servi
+'https://www.codeproject.com/Articles/1184324/How-to-Create-a-WCF-WebService-in-VB-NET
 
 Imports ThaiNationalIDCard
 Imports System.ComponentModel
