@@ -1,0 +1,16 @@
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCardJSON.exe.config
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCardJSON.exe
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCardJSON.pdb
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCardJSON.xml
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCard.dll
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\pcsc-sharp.dll
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.vbproj.AssemblyReference.cache
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.vbproj.SuggestedBindingRedirects.cache
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.frmReader.resources
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.Resources.resources
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.vbproj.GenerateResource.cache
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.vbproj.CoreCompileInputs.cache
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.vbproj.CopyComplete
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.exe
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.xml
+E:\xampp8\htdocs\mysite\devtest\test_smartcardreader\vb\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.pdb
