@@ -20,19 +20,21 @@ var requestOptions = {
   redirect: 'follow',
 };
 
-fetch("http://localhost:8000/getjson", requestOptions)
+fetch("http://localhost:8000/json/", requestOptions)
   .then(response => response.text())
   .then(result => console.log(result))
   .catch(error => console.log('error', error));
 </script>
 ```
 # reference code
-  - https://github.com/chakphanu/ThaiNationalIDCard
-  - https://github.com/dotnetthailand/ThaiNationalIDCard
-  - http://hosxp.net/index.php?option=com_smf&topic=22496
-  - http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=311
-  - http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=317
-  - https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.webservicehost?redirectedfrom=MSDN&view=netframework-4.8.1
-  - https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.weboperationcontext.outgoingrequest?view=netframework-4.8
-  - https://www.codeproject.com/Questions/1067471/how-to-resolve-cross-domain-issues-using-wcf-servi
-  - https://www.codeproject.com/Articles/1184324/How-to-Create-a-WCF-WebService-in-VB-NET
+ - https://github.com/chakphanu/ThaiNationalIDCard
+ - https://github.com/dotnetthailand/ThaiNationalIDCard
+ - http://hosxp.net/index.php?option=com_smf&topic=22496
+ - http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=311
+ - http://www.g2gsoft.com/webboard/forum.php?mod=viewthread&tid=317
+ - https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.webservicehost?redirectedfrom=MSDN&view=netframework-4.8.1
+ - https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.web.weboperationcontext.outgoingrequest?view=netframework-4.8
+ - https://www.codeproject.com/Questions/1067471/how-to-resolve-cross-domain-issues-using-wcf-servi
+ - https://www.codeproject.com/Articles/1184324/How-to-Create-a-WCF-WebService-in-VB-NET
+ - https://stackoverflow.com/questions/11403333/httplistener-with-https-support
+ - https://itecnote.com/tecnote/r-httplistener-with-https-support/
