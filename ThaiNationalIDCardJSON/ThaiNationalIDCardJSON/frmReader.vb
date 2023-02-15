@@ -355,15 +355,6 @@ Public Class frmReader
         Dim vDays As Integer
         Dim vMonths As Integer
         Dim vYears As Integer
-        '/ Parameters:
-        '/    sDate - ค่าวันเดือนปีเกิด (หรือวันเดือนปีที่ต้องการคำนวณหา)
-        '/    eDate - คำนวณเทียบกับวันเดือนปีปัจจุบัน (Now())
-        '/ Results:
-        '/    vYears - เก็บค่าความแตกต่างของจำนวนปี
-        '/    vMonths - เก็บค่าความแตกต่างของจำนวนเดือน
-        '/    vDays - เก็บค่าความแตกต่างของจำนวนวัน
-
-        '/ หาความแตกต่างของจำนวนเดือน
         vMonths = DateDiff("m", sDate, eDate)
         vDays = DateDiff("d", DateAdd("m", vMonths, sDate), eDate)
         If vDays < 0 Then
