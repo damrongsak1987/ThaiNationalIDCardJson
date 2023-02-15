@@ -29,3 +29,4 @@ E:\Develop\github\ThaiNationalIDCardJson\ThaiNationalIDCardJSON\ThaiNationalIDCa
 E:\Develop\github\ThaiNationalIDCardJson\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.exe
 E:\Develop\github\ThaiNationalIDCardJson\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.xml
 E:\Develop\github\ThaiNationalIDCardJson\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\obj\Debug\ThaiNationalIDCardJSON.pdb
+E:\Develop\github\ThaiNationalIDCardJson\ThaiNationalIDCardJSON\ThaiNationalIDCardJSON\bin\Debug\ThaiNationalIDCard.dll
